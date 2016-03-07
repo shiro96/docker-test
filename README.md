@@ -3,8 +3,15 @@
 CentOSのDockerイメージにPHPとApacheを入れるDockerfileを作ってみる
 
 
-## build
+## Build
 
-docker build -t hello .
+```
+$ bash build.sh
+```
 
+## Run
+
+```
+$ bash run.sh
+```
 
